@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?color=165DFF&size=21&center=true&lines=This is Heimer" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com/?color=165DFF&size=21&center=true&lines=%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E5%86%99%E4%BB%A3%E7%A0%81%E6%84%89%E5%BF%AB" alt="typing-svg">
 </p>
 
 
