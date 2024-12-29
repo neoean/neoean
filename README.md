@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=neoean&theme=vue-dark&count_private=true&show_icons=true">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoean&theme=vue-dark&layout=compact">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=neoean&repo=neoean&theme=dark">
