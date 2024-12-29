@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
 </a>
 
-<a href="#">
-  <img align="right" src="https://metrics.lecoq.io/neoean?template=terminal" />
-</a>
 
 # This is neoean 🌝
 
